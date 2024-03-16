@@ -5,7 +5,7 @@ export default function Source() {
   return (
     <div className="openn-source">
       <a
-        href="https://github.com/naledimuhauli/vanilla-weather-app"
+        href="https://github.com/naledimuhauli/weather-app-react"
         target="_blank"
         rel="noreferrer"
       >
